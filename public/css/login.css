@@ -1,0 +1,52 @@
+p {
+    margin: 10px 0 !important;
+  }
+body{
+    background-image: url('/img/body_back.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login-container {
+    width: 523px;
+    margin-top: 162px;
+    text-align: center;
+  }
+
+.card{
+    position: relative;
+    margin: 0.5rem 0 1rem 0;
+    background-color: #e2e1e5;
+    -webkit-transition: -webkit-box-shadow .25s;
+    transition: -webkit-box-shadow .25s;
+    transition: box-shadow .25s;
+    transition: box-shadow .25s, -webkit-box-shadow .25s;
+    border-radius: 2px;
+    height: 347px;
+    /* border: 1px solid black; */
+
+  }
+.customcard .card-content{
+    padding: 35px;
+}
+h3{
+    font-size: 41.92px;
+    font-family: auto;
+}
+.fa-solid, .fas {
+    font-size: larger;
+    padding: 8px;
+}
+  .fa-small {
+    font-size: 16px !important;
+  }
+
+.card .card-content p {
+    margin: 0;
+    font-size: 20px;
+    font-family: auto;
+}
+.divider {
+    height: 1px;
+    overflow: hidden;
+    background-color: #a19a93;
+}
