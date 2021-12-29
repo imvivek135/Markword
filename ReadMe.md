@@ -9,6 +9,11 @@ written by another user
 - This app uses Node.js/Express/MongoDB with Google OAuth for authentication
 - Add your mongoDB URI and Google OAuth credentials to the config.env file
 
+##  Features!
+  - Google authentication 
+  - Write, modify and save public and private story 
+  - Read public story of another user
+
 ## Requirements
 - NodeJs
 - NPM 
